@@ -15,9 +15,11 @@ The Quiz Android App is designed to provide quizzes on various topics including 
 - **Firebase Realtime Database**: Backend to store and fetch quizzes in JSON format
 
 ## Screenshots
-![Home Screen](content/screenshot1.png)
-![Quiz Screen](content/screenshot2.png)
-![Result Screen](content/screenshot3.png)
+<p align="center">
+  <img src="content/screenshot1.png" alt="Home Screen" width="200" style="margin-right: 50px;"/>
+  <img src="content/screenshot2.png" alt="Quiz Screen" width="200" style="margin-right: 50px;"/>
+  <img src="content/screenshot3.png" alt="Result Screen" width="200"/>
+</p>
 
 ## Installation
 1. Clone the repository:
